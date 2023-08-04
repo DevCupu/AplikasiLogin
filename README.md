@@ -1,5 +1,5 @@
 # Aplikasi-Login
-Sebuah aplikasi dengan fitur login.
+Sebuah aplikasi dengan fitur login dengan sedikit JavaScricpt
 
 Alur Fitur Login:
 1. Memasukkan email dan password
